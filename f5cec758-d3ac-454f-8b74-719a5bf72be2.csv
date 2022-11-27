@@ -1,0 +1,343 @@
+﻿_id,kabupaten_kota,jumlah_penduduk_laki__laki,jumlah_penduduk_perempuan,periode_update
+1,Pacitan,299789,297791,Semester I 2021
+2,Ponorogo,483130,485551,Semester I 2021
+3,Trenggalek,375755,370979,Semester I 2021
+4,Tulungagung,565882,560797,Semester I 2021
+5,Blitar,618827,609465,Semester I 2021
+6,Kediri,844883,826938,Semester I 2021
+7,Malang,1317612,1294295,Semester I 2021
+8,Lumajang,542349,549507,Semester I 2021
+9,Jember,1288774,1292712,Semester I 2021
+10,Banyuwangi,874371,875402,Semester I 2021
+11,Bondowoso,392371,409170,Semester I 2021
+12,Situbondo,326920,339325,Semester I 2021
+13,Probolinggo,570968,585602,Semester I 2021
+14,Pasuruan,802068,801686,Semester I 2021
+15,Sidoarjo,979423,972300,Semester I 2021
+16,Mojokerto,567890,559163,Semester I 2021
+17,Jombang,681707,668776,Semester I 2021
+18,Nganjuk,571284,562272,Semester I 2021
+19,Madiun,374233,380030,Semester I 2021
+20,Magetan,339139,350230,Semester I 2021
+21,Ngawi,446429,450339,Semester I 2021
+22,Bojonegoro,675171,668724,Semester I 2021
+23,Tuban,611979,611278,Semester I 2021
+24,Lamongan,691286,688445,Semester I 2021
+25,Gresik,645909,638052,Semester I 2021
+26,Bangkalan,534375,548384,Semester I 2021
+27,Sampang,447071,455443,Semester I 2021
+28,Pamekasan,411206,429584,Semester I 2021
+29,Sumenep,547336,587414,Semester I 2021
+30,Kota Kediri,145121,147242,Semester I 2021
+31,Kota Blitar,78808,79315,Semester I 2021
+32,Kota Malang,431282,435074,Semester I 2021
+33,Kota Probolinggo,120549,121697,Semester I 2021
+34,Kota Pasuruan,105191,105150,Semester I 2021
+35,Kota Mojokerto,69484,70477,Semester I 2021
+36,Kota Madiun,98537,102706,Semester I 2021
+37,Kota Surabaya,1473744,1497099,Semester I 2021
+38,Kota Batu,108268,106980,Semester I 2021
+39,Pacitan,299914,298084,Semester II 2021
+40,Ponorogo,483174,486282,Semester II 2021
+41,Trenggalek,375816,371379,Semester II 2021
+42,Tulungagung,565024,561993,Semester II 2021
+43,Blitar,618707,610568,Semester II 2021
+44,Kediri,845152,828006,Semester II 2021
+45,Malang,1328610,1307340,Semester II 2021
+46,Lumajang,542614,550115,Semester II 2021
+47,Jember,1291175,1291498,Semester II 2021
+48,Banyuwangi,875108,875670,Semester II 2021
+49,Bondowoso,392798,409304,Semester II 2021
+50,Situbondo,326843,339776,Semester II 2021
+51,Probolinggo,571412,585996,Semester II 2021
+52,Pasuruan,801798,803239,Semester II 2021
+53,Sidoarjo,979021,973544,Semester II 2021
+54,Mojokerto,567962,559686,Semester II 2021
+55,Jombang,681767,669653,Semester II 2021
+56,Nganjuk,571291,562618,Semester II 2021
+57,Madiun,374235,380221,Semester II 2021
+58,Magetan,339089,350452,Semester II 2021
+59,Ngawi,446310,450653,Semester II 2021
+60,Bojonegoro,674383,668051,Semester II 2021
+61,Tuban,612273,611145,Semester II 2021
+62,Lamongan,691411,688734,Semester II 2021
+63,Gresik,645401,638757,Semester II 2021
+64,Bangkalan,534561,548631,Semester II 2021
+65,Sampang,459512,468120,Semester II 2021
+66,Pamekasan,413044,432066,Semester II 2021
+67,Sumenep,547190,587620,Semester II 2021
+68,Kota Kediri,145145,147452,Semester II 2021
+69,Kota Blitar,78820,79424,Semester II 2021
+70,Kota Malang,431201,435276,Semester II 2021
+71,Kota Probolinggo,120620,121799,Semester II 2021
+72,Kota Pasuruan,105303,105295,Semester II 2021
+73,Kota Mojokerto,69559,70606,Semester II 2021
+74,Kota Madiun,98480,102972,Semester II 2021
+75,Kota Surabaya,1472817,1498135,Semester II 2021
+76,Kota Batu,108366,107028,Semester II 2021
+77,Pacitan,300337,298597,Semester I 2022
+78,Ponorogo,483340,486664,Semester I 2022
+79,Trenggalek,375780,371869,Semester I 2022
+80,Tulungagung,565596,562032,Semester I 2022
+81,Blitar,618614,611618,Semester I 2022
+82,Kediri,845914,828226,Semester I 2022
+83,Malang,1336746,1316339,Semester I 2022
+84,Lumajang,542933,550679,Semester I 2022
+85,Jember,1290488,1293745,Semester I 2022
+86,Banyuwangi,875003,877337,Semester I 2022
+87,Bondowoso,393341,409194,Semester I 2022
+88,Situbondo,326881,340155,Semester I 2022
+89,Probolinggo,571626,586851,Semester I 2022
+90,Pasuruan,801711,805096,Semester I 2022
+91,Sidoarjo,979567,975435,Semester I 2022
+92,Mojokerto,568274,560145,Semester I 2022
+93,Jombang,681804,670557,Semester I 2022
+94,Nganjuk,571539,563078,Semester I 2022
+95,Madiun,374674,380749,Semester I 2022
+96,Magetan,339364,350534,Semester I 2022
+97,Ngawi,446449,451029,Semester I 2022
+98,Bojonegoro,674765,668399,Semester I 2022
+99,Tuban,612828,611529,Semester I 2022
+100,Lamongan,692115,688739,Semester I 2022
+101,Gresik,645897,638966,Semester I 2022
+102,Bangkalan,535561,548349,Semester I 2022
+103,Sampang,470931,479499,Semester I 2022
+104,Pamekasan,419306,437958,Semester I 2022
+105,Sumenep,547626,587815,Semester I 2022
+106,Kota Kediri,145610,147677,Semester I 2022
+107,Kota Blitar,78968,79455,Semester I 2022
+108,Kota Malang,431241,435801,Semester I 2022
+109,Kota Probolinggo,120737,122175,Semester I 2022
+110,Kota Pasuruan,105684,105536,Semester I 2022
+111,Kota Mojokerto,69743,70699,Semester I 2022
+112,Kota Madiun,98709,102902,Semester I 2022
+113,Kota Surabaya,1473517,1499284,Semester I 2022
+114,Kota Batu,108624,107512,Semester I 2022
+115,Pacitan,296894,294230,Semester I 2018
+116,Ponorogo,479382,480891,Semester I 2018
+117,Trenggalek,375248,371754,Semester I 2018
+118,Tulungagung,554414,554260,Semester I 2018
+119,Blitar,623414,604695,Semester I 2018
+120,Kediri,821148,806176,Semester I 2018
+121,Malang,1255508,1219766,Semester I 2018
+122,Lumajang,557283,565625,Semester I 2018
+123,Jember,1278383,1278019,Semester I 2018
+124,Banyuwangi,868821,863902,Semester I 2018
+125,Bondowoso,394721,396830,Semester I 2018
+126,Situbondo,337259,349302,Semester I 2018
+127,Probolinggo,551563,567747,Semester I 2018
+128,Pasuruan,792780,791361,Semester I 2018
+129,Sidoarjo,937158,931420,Semester I 2018
+130,Mojokerto,559270,551932,Semester I 2018
+131,Jombang,657770,647773,Semester I 2018
+132,Nganjuk,557567,551554,Semester I 2018
+133,Madiun,368092,372330,Semester I 2018
+134,Magetan,339286,352137,Semester I 2018
+135,Ngawi,452399,453117,Semester I 2018
+136,Bojonegoro,666696,658060,Semester I 2018
+137,Tuban,599821,597034,Semester I 2018
+138,Lamongan,681370,678943,Semester I 2018
+139,Gresik,636005,628399,Semester I 2018
+140,Bangkalan,530556,536568,Semester I 2018
+141,Sampang,428288,425621,Semester I 2018
+142,Pamekasan,402703,417124,Semester I 2018
+143,Sumenep,549303,580538,Semester I 2018
+144,Kota Kediri,145207,146598,Semester I 2018
+145,Kota Blitar,77694,78220,Semester I 2018
+146,Kota Malang,421659,424983,Semester I 2018
+147,Kota Probolinggo,117496,119377,Semester I 2018
+148,Kota Pasuruan,104143,103993,Semester I 2018
+149,Kota Mojokerto,71210,72274,Semester I 2018
+150,Kota Madiun,100758,105086,Semester I 2018
+151,Kota Surabaya,1451246,1463145,Semester I 2018
+152,Kota Batu,104778,103361,Semester I 2018
+153,Pacitan,297790,295148,Semester II 2018
+154,Ponorogo,480495,481630,Semester II 2018
+155,Trenggalek,376421,372011,Semester II 2018
+156,Tulungagung,554340,555207,Semester II 2018
+157,Blitar,622964,607195,Semester II 2018
+158,Kediri,831678,816157,Semester II 2018
+159,Malang,1264358,1227752,Semester II 2018
+160,Lumajang,559034,565722,Semester II 2018
+161,Jember,1281283,1275331,Semester II 2018
+162,Banyuwangi,870326,862701,Semester II 2018
+163,Bondowoso,395124,398147,Semester II 2018
+164,Situbondo,337613,349305,Semester II 2018
+165,Probolinggo,554601,570388,Semester II 2018
+166,Pasuruan,793664,791265,Semester II 2018
+167,Sidoarjo,944095,938340,Semester II 2018
+168,Mojokerto,564007,556242,Semester II 2018
+169,Jombang,666221,658901,Semester II 2018
+170,Nganjuk,558971,553171,Semester II 2018
+171,Madiun,368221,372595,Semester II 2018
+172,Magetan,340041,351898,Semester II 2018
+173,Ngawi,452715,454214,Semester II 2018
+174,Bojonegoro,667453,658286,Semester II 2018
+175,Tuban,600863,597869,Semester II 2018
+176,Lamongan,681511,679801,Semester II 2018
+177,Gresik,635975,629293,Semester II 2018
+178,Bangkalan,530100,536790,Semester II 2018
+179,Sampang,428204,426266,Semester II 2018
+180,Pamekasan,401664,419275,Semester II 2018
+181,Sumenep,549200,581329,Semester II 2018
+182,Kota Kediri,144945,147064,Semester II 2018
+183,Kota Blitar,78073,78660,Semester II 2018
+184,Kota Malang,422538,424840,Semester II 2018
+185,Kota Probolinggo,118148,120102,Semester II 2018
+186,Kota Pasuruan,104636,104503,Semester II 2018
+187,Kota Mojokerto,71421,72405,Semester II 2018
+188,Kota Madiun,100580,104961,Semester II 2018
+189,Kota Surabaya,1450616,1465294,Semester II 2018
+190,Kota Batu,105709,104224,Semester II 2018
+191,Pacitan,299157,295600,Semester I 2019
+192,Ponorogo,483010,484258,Semester I 2019
+193,Trenggalek,377054,372744,Semester I 2019
+194,Tulungagung,558282,558191,Semester I 2019
+195,Blitar,628117,613406,Semester I 2019
+196,Kediri,836688,820985,Semester I 2019
+197,Malang,1288796,1253710,Semester I 2019
+198,Lumajang,559690,567737,Semester I 2019
+199,Jember,1285166,1278350,Semester I 2019
+200,Banyuwangi,876020,869655,Semester I 2019
+201,Bondowoso,396502,399647,Semester I 2019
+202,Situbondo,339781,350112,Semester I 2019
+203,Probolinggo,560649,575761,Semester I 2019
+204,Pasuruan,797086,792857,Semester I 2019
+205,Sidoarjo,960615,953200,Semester I 2019
+206,Mojokerto,570693,563295,Semester I 2019
+207,Jombang,673703,665764,Semester I 2019
+208,Nganjuk,562987,556521,Semester I 2019
+209,Madiun,370552,375434,Semester I 2019
+210,Magetan,342095,354287,Semester I 2019
+211,Ngawi,454230,455807,Semester I 2019
+212,Bojonegoro,670909,660267,Semester I 2019
+213,Tuban,606749,603170,Semester I 2019
+214,Lamongan,685583,683513,Semester I 2019
+215,Gresik,639490,632324,Semester I 2019
+216,Bangkalan,533575,539182,Semester I 2019
+217,Sampang,430575,427551,Semester I 2019
+218,Pamekasan,403796,420610,Semester I 2019
+219,Sumenep,551400,582355,Semester I 2019
+220,Kota Kediri,145495,147874,Semester I 2019
+221,Kota Blitar,78433,79032,Semester I 2019
+222,Kota Malang,427070,429550,Semester I 2019
+223,Kota Probolinggo,119123,120958,Semester I 2019
+224,Kota Pasuruan,105304,105203,Semester I 2019
+225,Kota Mojokerto,68700,69935,Semester I 2019
+226,Kota Madiun,101146,105452,Semester I 2019
+227,Kota Surabaya,1460385,1481596,Semester I 2019
+228,Kota Batu,106665,104911,Semester I 2019
+229,Pacitan,299600,296946,Semester II 2019
+230,Ponorogo,484590,486603,Semester II 2019
+231,Trenggalek,377232,373019,Semester II 2019
+232,Tulungagung,559265,559549,Semester II 2019
+233,Blitar,630512,616141,Semester II 2019
+234,Kediri,839285,823223,Semester II 2019
+235,Malang,1291164,1258643,Semester II 2019
+236,Lumajang,561637,567140,Semester II 2019
+237,Jember,1288647,1280237,Semester II 2019
+238,Banyuwangi,877889,869774,Semester II 2019
+239,Bondowoso,396698,400894,Semester II 2019
+240,Situbondo,340599,351023,Semester II 2019
+241,Probolinggo,560947,577385,Semester II 2019
+242,Pasuruan,798055,794023,Semester II 2019
+243,Sidoarjo,966911,959677,Semester II 2019
+244,Mojokerto,572410,566019,Semester II 2019
+245,Jombang,674959,668253,Semester II 2019
+246,Nganjuk,565052,558411,Semester II 2019
+247,Madiun,372047,377019,Semester II 2019
+248,Magetan,343338,355740,Semester II 2019
+249,Ngawi,455763,457790,Semester II 2019
+250,Bojonegoro,672409,663431,Semester II 2019
+251,Tuban,607449,604004,Semester II 2019
+252,Lamongan,688363,685027,Semester II 2019
+253,Gresik,640881,634182,Semester II 2019
+254,Bangkalan,534772,541561,Semester II 2019
+255,Sampang,430987,429662,Semester II 2019
+256,Pamekasan,404916,422089,Semester II 2019
+257,Sumenep,551070,583059,Semester II 2019
+258,Kota Kediri,146132,148818,Semester II 2019
+259,Kota Blitar,78622,79258,Semester II 2019
+260,Kota Malang,428762,431690,Semester II 2019
+261,Kota Probolinggo,119387,121202,Semester II 2019
+262,Kota Pasuruan,105492,105516,Semester II 2019
+263,Kota Mojokerto,68884,70059,Semester II 2019
+264,Kota Madiun,101102,105729,Semester II 2019
+265,Kota Surabaya,1464900,1485330,Semester II 2019
+266,Kota Batu,107000,105296,Semester II 2019
+267,Pacitan,299862,297458,Semester I 2020
+268,Ponorogo,486304,488771,Semester I 2020
+269,Trenggalek,377667,373961,Semester I 2020
+270,Tulungagung,561592,561733,Semester I 2020
+271,Blitar,632418,619236,Semester I 2020
+272,Kediri,842488,826668,Semester I 2020
+273,Malang,1295670,1265707,Semester I 2020
+274,Lumajang,562986,569173,Semester I 2020
+275,Jember,1291142,1283237,Semester I 2020
+276,Banyuwangi,876426,874507,Semester I 2020
+277,Bondowoso,397870,402116,Semester I 2020
+278,Situbondo,341149,352025,Semester I 2020
+279,Probolinggo,563136,579768,Semester I 2020
+280,Pasuruan,800566,797949,Semester I 2020
+281,Sidoarjo,970754,963556,Semester I 2020
+282,Mojokerto,574744,568267,Semester I 2020
+283,Jombang,677761,670843,Semester I 2020
+284,Nganjuk,567311,560652,Semester I 2020
+285,Madiun,373328,378729,Semester I 2020
+286,Magetan,344497,357369,Semester I 2020
+287,Ngawi,456944,459589,Semester I 2020
+288,Bojonegoro,674773,666408,Semester I 2020
+289,Tuban,609591,606704,Semester I 2020
+290,Lamongan,690171,686972,Semester I 2020
+291,Gresik,643102,637079,Semester I 2020
+292,Bangkalan,535776,543823,Semester I 2020
+293,Sampang,431621,432492,Semester I 2020
+294,Pamekasan,406498,423948,Semester I 2020
+295,Sumenep,551745,585777,Semester I 2020
+296,Kota Kediri,146664,149460,Semester I 2020
+297,Kota Blitar,78849,79500,Semester I 2020
+298,Kota Malang,430256,433528,Semester I 2020
+299,Kota Probolinggo,119740,121805,Semester I 2020
+300,Kota Pasuruan,105836,106013,Semester I 2020
+301,Kota Mojokerto,69139,70354,Semester I 2020
+302,Kota Madiun,101467,105984,Semester I 2020
+303,Kota Surabaya,1468772,1490310,Semester I 2020
+304,Kota Batu,107233,105908,Semester I 2020
+305,Pacitan,299724,297749,Semester II 2020
+306,Ponorogo,487644,490139,Semester II 2020
+307,Trenggalek,379570,374250,Semester II 2020
+308,Tulungagung,565808,560735,Semester II 2020
+309,Blitar,629974,619216,Semester II 2020
+310,Kediri,846441,827128,Semester II 2020
+311,Malang,1305307,1280119,Semester II 2020
+312,Lumajang,553888,563748,Semester II 2020
+313,Jember,1287472,1291477,Semester II 2020
+314,Banyuwangi,878591,876128,Semester II 2020
+315,Bondowoso,392439,408986,Semester II 2020
+316,Situbondo,340631,353594,Semester II 2020
+317,Probolinggo,565800,580331,Semester II 2020
+318,Pasuruan,801867,801683,Semester II 2020
+319,Sidoarjo,974364,965692,Semester II 2020
+320,Mojokerto,577954,568233,Semester II 2020
+321,Jombang,682051,668054,Semester II 2020
+322,Nganjuk,569071,559853,Semester II 2020
+323,Madiun,374371,379794,Semester II 2020
+324,Magetan,338704,350506,Semester II 2020
+325,Ngawi,456005,460017,Semester II 2020
+326,Bojonegoro,675694,667965,Semester II 2020
+327,Tuban,610060,609549,Semester II 2020
+328,Lamongan,691346,688282,Semester II 2020
+329,Gresik,646167,637659,Semester II 2020
+330,Bangkalan,534043,548613,Semester II 2020
+331,Sampang,438247,443995,Semester II 2020
+332,Pamekasan,407141,425121,Semester II 2020
+333,Sumenep,549301,588867,Semester II 2020
+334,Kota Kediri,145171,147091,Semester II 2020
+335,Kota Blitar,78853,79460,Semester II 2020
+336,Kota Malang,431384,434868,Semester II 2020
+337,Kota Probolinggo,120251,121846,Semester II 2020
+338,Kota Pasuruan,105138,105109,Semester II 2020
+339,Kota Mojokerto,69381,70393,Semester II 2020
+340,Kota Madiun,99795,103972,Semester II 2020
+341,Kota Surabaya,1473988,1496742,Semester II 2020
+342,Kota Batu,107603,106203,Semester II 2020
